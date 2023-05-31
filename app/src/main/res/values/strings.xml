@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workout Timer</string>
+    <string name="workout_timer_format">%02d:%02d</string>
+    <string name="rest_timer_format">%02d:%02d</string>
+    <string name="channel_description">Stop watch timmer</string>
+    <string name="channel_name">StopWatch</string>
+
+</resources>
